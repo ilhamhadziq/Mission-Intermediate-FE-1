@@ -1,5 +1,5 @@
 import { useState } from "react";
-import AuthLayout from "../components/Banner";
+import AuthLayout from "../components/AuthLayout";
 import TextInput from "../components/TextInput";
 import PasswordInput from "../components/PasswordInput";
 import PhoneInput from "../components/PhoneInput";
