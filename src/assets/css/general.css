@@ -11,5 +11,10 @@ body{
   margin: 20px auto;
   padding: 0 10%; /* ini space kanan kiri di gambar */
 }
-
+.side{
+  padding: 0 5%;
+}
+.side img{
+  height: 100%;
+}
 
